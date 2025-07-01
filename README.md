@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jaokuohsuan-draw-things-mcp-cursor-badge.png)](https://mseep.ai/app/jaokuohsuan-draw-things-mcp-cursor)
+
 # Draw Things MCP
 
 Draw Things API integration for Cursor using Model Context Protocol (MCP).
